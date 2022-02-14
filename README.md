@@ -11,3 +11,10 @@ Plugin for Craftbeerpi 3 to measure temperature from NTC sensor using external A
 * Vmax - Voltage max of ADC
 * Beta - Beta of thermistor
 * Delay - Delay of measurement in secs
+
+
+## Parameter
+
+Go to modules/plugins folder in your Craftbeerpi 3 installation directory and execute the following command:
+
+git clone https://github.com/smulewsk/cbpi3-NTCSensor.git
