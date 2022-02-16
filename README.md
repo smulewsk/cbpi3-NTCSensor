@@ -2,6 +2,10 @@
 
 Plugin for Craftbeerpi 3 to measure temperature from NTC sensor using external ADC. The externel ADC is connected to RPi on the I2C bus.
 
+IMPORTANT!!!! Please select jumper JP1 to the right NTC value:
+* 1-2 NTC 100Kohms
+* 2-3 NTC 10Kohms
+
 
 ## Parameter
 
